@@ -33,7 +33,7 @@ they're genuinely yours.
 
 **Claude Code**
 ```bash
-git clone https://github.com/<your-username>/linkedin-abm-warmup.git ~/.claude/skills/linkedin-abm-warmup
+git clone https://github.com/Abdullahliaqat9010/linkedin-abm-warmup.git ~/.claude/skills/linkedin-abm-warmup
 ```
 
 ## Use
@@ -68,7 +68,6 @@ linkedin-abm-warmup/
 ## Built by
 
 **Abdullah** · GTM engineer
-[LinkedIn](https://www.linkedin.com/in/<your-handle>)
 
 Questions or ideas? Open an issue or message me on LinkedIn.
 
